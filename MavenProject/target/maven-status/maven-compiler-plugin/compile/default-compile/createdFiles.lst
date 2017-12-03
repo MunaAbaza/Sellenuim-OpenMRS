@@ -1,0 +1,3 @@
+com\openmrs\LoginPage.class
+com\utility\SelenuimUtils.class
+com\openmrs\App.class
