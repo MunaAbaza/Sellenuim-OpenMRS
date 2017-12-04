@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
  
 public class LoginPage {
- 
+    // My changes
 	//Default driver has null
 	WebDriver driver;
 	public LoginPage(WebDriver driver)
