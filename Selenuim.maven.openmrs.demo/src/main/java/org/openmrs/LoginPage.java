@@ -8,7 +8,7 @@ public class LoginPage {
 	WebDriver driver;
 	public LoginPage(WebDriver driver)
 	{
-		 
+		 //modify
 		this.driver = driver;
 	}
 	public boolean login(String uname,String pword) throws InterruptedException
